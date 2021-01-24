@@ -39,5 +39,6 @@ After taking a look at the dataset, I cleaned it up so it's usable for the model
 * Changed variable type
 
 ## EDA
+![alt text](https://github.com/phoebecmk/In-class-Kaggle-competition/tree/EDA_improvement/Github%20README/corr.png)
 
 ## Model Building
